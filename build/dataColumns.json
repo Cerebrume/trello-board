@@ -1,0 +1,21 @@
+{
+    "name":"Board",
+    "columns": [
+        {
+            "id": 1,
+            "columnName": "Column1"
+        },
+        {
+            "id": 2,
+            "columnName": "Column2"
+        },
+        {
+            "id": 3,
+            "columnName": "Column3"
+        },
+        {
+            "id": 4,
+            "columnName": "Column4"
+        }
+    ]
+}

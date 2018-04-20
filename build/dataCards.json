@@ -1,0 +1,24 @@
+{
+    "cards": [
+        {
+            "cardDescr": "Card",
+            "columnId": 1
+        },
+        {
+            "cardDescr": "Card",
+            "columnId": 1
+        },
+        {
+            "cardDescr": "Card",
+            "columnId": 2
+        },
+        {
+            "cardDescr": "Card",
+            "columnId": 2
+        },
+        {
+            "cardDescr": "Card",
+            "columnId": 3
+        }
+    ]
+}
